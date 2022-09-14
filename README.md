@@ -12,7 +12,7 @@
 - To build a CNN based model which can accurately detect melanoma. Melanoma is a type of cancer that can be deadly if not detected early. It accounts for 75% of skin cancer deaths.
 - The project uses tensorlfow backend.
 - Business problem: To provide a solution that can evaluate images and alert dermatologists about the presence of melanoma has the potential to reduce a lot of manual effort needed in diagnosis.
-- Dataset being provided is of images of melanoma.
+- The dataset consists of 2357 images of malignant and benign oncological diseases, which were formed from the International Skin Imaging Collaboration (ISIC). 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
